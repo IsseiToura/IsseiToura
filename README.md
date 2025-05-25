@@ -8,4 +8,6 @@ Hi, my name is Issei living in Brisbane!
 - 🏢 Former Sales Leader at Recruit Holdings, a top IT company in Japan
 - 🏆 Lacrosse enthusiast and Queensland state representative
 
-[![Issei's GitHub stats](https://github-readme-stats.vercel.app/api?username=IsseiToura)](https://github.com/anuraghazra/github-readme-stats)
+### 📘 Top Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IsseiToura&layout=donut&theme=dark)
+
