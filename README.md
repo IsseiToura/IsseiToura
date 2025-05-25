@@ -9,5 +9,5 @@ Hi, my name is Issei living in Brisbane!
 - 🏆 Lacrosse enthusiast and Queensland state representative
 
 ### 📘 Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IsseiToura&layout=donut&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IsseiToura&layout=donut&theme=dark&count_private=true)
 
