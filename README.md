@@ -7,3 +7,5 @@ Hi, my name is Issei living in Brisbane!
 - 💻 Skilled in C#, Python, TypeScript, and React
 - 🏢 Former Sales Leader at Recruit Holdings, a top IT company in Japan
 - 🏆 Lacrosse enthusiast and Queensland state representative
+
+[![Issei's GitHub stats](https://github-readme-stats.vercel.app/api?username=IsseiToura)](https://github.com/anuraghazra/github-readme-stats)
